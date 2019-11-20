@@ -1,0 +1,33 @@
+{
+  "name": "block-widget-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^15.0.0",
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.5",
+    "@ckeditor/ckeditor5-editor-classic": "^15.0.0",
+    "@ckeditor/ckeditor5-essentials": "^15.0.0",
+    "@ckeditor/ckeditor5-heading": "^15.0.0",
+    "@ckeditor/ckeditor5-image": "^15.0.0",
+    "@ckeditor/ckeditor5-link": "^15.0.0",
+    "@ckeditor/ckeditor5-list": "^15.0.0",
+    "@ckeditor/ckeditor5-paragraph": "^15.0.0",
+    "@ckeditor/ckeditor5-theme-lark": "^15.0.0",
+    "@ckeditor/ckeditor5-widget": "^15.0.0",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^3.1.0",
+    "remodal": "^1.1.1",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-inspector": "^1.4.0"
+  }
+}
